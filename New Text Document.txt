@@ -2,4 +2,4 @@ testing git version control
 
 some changes...
 
-new awesome feature in development
+new awesome feature in development!
