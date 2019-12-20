@@ -1,0 +1,5 @@
+squash test changes
+
+more changes..
+
+and more changes
