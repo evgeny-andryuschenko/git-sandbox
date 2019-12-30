@@ -1,3 +1,5 @@
 testing git version control
 
 some changes...
+
+HOTFIX CRITICAL AMENDMENTS
