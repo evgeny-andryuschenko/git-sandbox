@@ -2,6 +2,7 @@ testing git version control
 
 some changes...
 
+HOTFIX CRITICAL AMENDMENTS
 new awesome feature in development!
 another awesome feature
 
